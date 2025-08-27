@@ -1,6 +1,6 @@
 **OPTIC-ER: A Reinforcement Learning Framework for Real-Time Emergency Response and Equitable Resource Allocation in Underserved African Communities**  
 *Mary Tonwe*  
-[*Link to arXiv preprint*](#)
+[*[Link to arXiv preprint](https://arxiv.org/abs/2508.12943)*](#)
 
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 
